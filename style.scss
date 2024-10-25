@@ -130,16 +130,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $white;
+  color: #28282D;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: #28282D;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: #28282D;
   background: $lightGray;
 }
 
@@ -215,7 +215,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #f1f1f1;
+  color: #E1E6EB;
   font-size: 16px;
 
   @include mobile {
