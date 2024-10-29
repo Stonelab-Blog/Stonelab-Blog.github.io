@@ -19,7 +19,7 @@ html {
 
 body {
   background: #E1E6EB;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $poppins;
   color: #28282D;
 }
 
@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #28282D;
 
   line-height: 1.7;
@@ -207,7 +207,7 @@ img {
   margin: 0;
   color: #28282D;
   cursor: pointer;
-  font-family: sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 1000;
   font-size: 36px;
 }
