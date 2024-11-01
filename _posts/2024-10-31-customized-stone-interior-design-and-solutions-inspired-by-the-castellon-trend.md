@@ -53,4 +53,4 @@ Pair stone with other natural materials like wood and metal to create a cohesive
 
 The Castellon-inspired trend of customized stone interior design offers a unique opportunity to infuse your space with natural beauty and personalized elegance. By embracing the timeless appeal of stone, you can create an environment that is both stylish and enduring. Whether you are looking to renovate your home or design a new space, consider the transformative power of customized stone solutions.
 
-For more information on customized stone interior design and solutions, [click here](https://www.pythonanywhere.com/api/v0/user/dojoentertainment/schedule/) to explore further insights and expert advice.
+For more information on customized stone interior design and solutions, [click here](https://stonelab.se/) to explore further insights and expert advice.
