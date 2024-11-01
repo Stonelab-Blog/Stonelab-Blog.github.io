@@ -48,4 +48,4 @@ A stone fireplace can serve as a cozy centerpiece in your living space. It bring
 
 Embracing the Almeria-inspired trend in customized stone interior design offers a unique way to bring the beauty of nature into your space. By focusing on earthy colors, natural textures, and sustainable materials, you can create an environment that is both elegant and environmentally conscious. Whether you're renovating your home or designing a new business space, these stone solutions provide endless possibilities for creating a captivating and timeless interior.
 
-For more ideas and inspiration on customized stone interior design solutions, visit this [link](https://www.pythonanywhere.com/api/v0/user/dojoentertainment/schedule/).
+For more ideas and inspiration on customized stone interior design solutions, visit this [link](https://stonelab.se/).
