@@ -46,4 +46,4 @@ For those looking to make a bold statement, custom stone furniture can be an exc
 
 Customized stone interior design, inspired by the serene and sophisticated style of Sandviken, offers endless possibilities for creating unique and elegant living spaces. By understanding the benefits and exploring innovative solutions, homeowners can transform their interiors with the timeless beauty of stone. Whether it's through accent walls, flooring, or custom furniture, incorporating stone can elevate the aesthetics and functionality of any space.
 
-For more insights and solutions in interior design, visit [this link](https://www.pythonanywhere.com/api/v0/user/dojoentertainment/schedule/).
+For more insights and solutions in interior design, visit [this link](https://stonelab.se/).
