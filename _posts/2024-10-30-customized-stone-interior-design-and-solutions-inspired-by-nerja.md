@@ -36,7 +36,7 @@ Nerja's architectural style is a harmonious blend of Andalusian tradition and Me
 
 To achieve the perfect balance of functionality and aesthetics, consider collaborating with professionals who specialize in customized stone interior design. They can provide tailored solutions that align with your vision and ensure flawless execution. Whether you are renovating an existing space or building a new home, the right stone elements can redefine your living environment.
 
-For more information on customized stone interior design and solutions, visit [this link](https://www.pythonanywhere.com/api/v0/user/dojoentertainment/schedule/).
+For more information on customized stone interior design and solutions, visit [this link](https://stonelab.se/).
 
 ## Conclusion
 
