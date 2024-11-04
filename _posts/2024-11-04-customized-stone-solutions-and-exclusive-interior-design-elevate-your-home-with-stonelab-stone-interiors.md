@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customized Stone Solutions and Exclusive Interior Design: Elevate Your Home with StoneLab Stone Interiors
+title: Customized Stone Solutions and Exclusive Interior Design Elevate Your Home with StoneLab Stone Interiors
 ---
 
 
