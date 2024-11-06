@@ -1,5 +1,6 @@
 ---
 ---
+
 //
 // IMPORTS
 //
@@ -18,11 +19,11 @@ html {
 }
 
 body {
-  background: #E1E6EB;
+  background: #fff;
   font-family: 'Poppins', sans-serif;
   font-size: 18px;
   line-height: 1.4;
-  color: #28282D;
+  color: #000;
 }
 
 .container {
@@ -39,7 +40,7 @@ h4,
 h5,
 h6 {
   font-family: 'Poppins', sans-serif;
-  color: #28282D;
+  color: #28282d;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -67,7 +68,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #28282D;
+  color: #28282d;
 }
 
 p {
@@ -131,16 +132,16 @@ img {
 
 .date {
   font-style: italic;
-  color: #28282D;
+  color: #28282d;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: #28282D;
+  color: #28282d;
   background: $lightGray;
 }
 ::selection {
-  color: #28282D;
+  color: #28282d;
   background: $lightGray;
 }
 
@@ -206,7 +207,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #28282D;
+  color: #28282d;
   cursor: pointer;
   font-family: 'Poppins', sans-serif;
   font-size: 36px;
@@ -214,7 +215,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #E1E6EB;
+  color: #e1e6eb;
   font-size: 16px;
 
   @include mobile {
@@ -237,7 +238,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #28282D;
+    color: #28282d;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -299,4 +300,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import 'highlights';
 @import 'svg-icons';
-
