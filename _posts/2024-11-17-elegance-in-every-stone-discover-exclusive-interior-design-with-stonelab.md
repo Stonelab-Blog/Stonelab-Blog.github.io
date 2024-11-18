@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Elegance in Every Stone Discover Exclusive Interior Design with StoneLab**
+title: Elegance in Every Stone Discover Exclusive Interior Design with StoneLab
 ---
 
 
