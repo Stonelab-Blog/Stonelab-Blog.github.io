@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Strasbourg Stone Elegance Unveiled**
+title: Strasbourg Stone Elegance Unveiled
 ---
 
 
