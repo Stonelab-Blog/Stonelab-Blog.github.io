@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Oskarshamn Elegance A StoneLab Journey in Interior Design**
+title: Oskarshamn Elegance A StoneLab Journey in Interior Design
 ---
 
 
