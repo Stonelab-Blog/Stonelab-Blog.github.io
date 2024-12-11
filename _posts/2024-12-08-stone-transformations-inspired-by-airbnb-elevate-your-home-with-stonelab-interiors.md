@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Stone Transformations Inspired by Airbnb: Elevate Your Home with StoneLab Interiors**
+title: Stone Transformations Inspired by Airbnb - Elevate Your Home with StoneLab Interiors
 ---
 
 
