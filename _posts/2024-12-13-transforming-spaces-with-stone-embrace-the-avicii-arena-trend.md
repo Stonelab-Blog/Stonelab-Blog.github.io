@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transforming Spaces with Stone: Embrace the Avicii Arena Trend
+title: Transforming Spaces with Stone - Embrace the Avicii Arena Trend
 ---
 
 
