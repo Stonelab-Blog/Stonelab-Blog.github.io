@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Elegance Carved in Stone Discovering StoneLab's Unique Touch Inspired by Finlands Lucia**
+title: Elegance Carved in Stone Discovering StoneLab's Unique Touch Inspired by Finlands Lucia
 ---
 
 

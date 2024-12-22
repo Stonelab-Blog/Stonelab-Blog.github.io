@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Romantic Interiors with StoneLab Stone Inspirations**
+title: Romantic Interiors with StoneLab Stone Inspirations
 ---
 
 
