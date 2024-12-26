@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Refined Elegance with StoneLab Stone Interiors**
+title: Refined Elegance with StoneLab Stone Interiors
 ---
 
 

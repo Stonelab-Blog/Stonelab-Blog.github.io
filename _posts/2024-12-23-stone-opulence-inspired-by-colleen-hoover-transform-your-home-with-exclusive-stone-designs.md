@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stone Opulence Inspired by Colleen Hoover: Transform Your Home with Exclusive Stone Designs
+title: Stone Opulence Inspired by Colleen Hoover - Transform Your Home with Exclusive Stone Designs
 ---
 
 
