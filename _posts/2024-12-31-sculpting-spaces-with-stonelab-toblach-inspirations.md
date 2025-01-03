@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Sculpting Spaces with StoneLab Toblach Inspirations**
+title: Sculpting Spaces with StoneLab Toblach Inspirations
 ---
 
 

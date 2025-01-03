@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Generation Alpha's Guide to Timeless Stone Elegance**
+title: Generation Alpha's Guide to Timeless Stone Elegance
 ---
 
 

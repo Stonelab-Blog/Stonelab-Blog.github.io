@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Stone Elegance Inspired by Skellefteå**
+title: Stone Elegance Inspired by Skellefteå
 ---
 
 

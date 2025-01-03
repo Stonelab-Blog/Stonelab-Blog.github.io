@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Lemontree Elegance in Stone Design**
+title: Lemontree Elegance in Stone Design
 ---
 
 

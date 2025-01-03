@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Transforming Spaces with StoneLab and Airbnb Trends**
+title: Transforming Spaces with StoneLab and Airbnb Trends
 ---
 
 
