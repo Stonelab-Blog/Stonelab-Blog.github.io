@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ### StoneLab's Grönland USA: The Art of Stone in Modern Interiors 
+title: StoneLab's Greeland and USA Reflection - The Art of Stone in Modern Interiors 
 ---
 
 

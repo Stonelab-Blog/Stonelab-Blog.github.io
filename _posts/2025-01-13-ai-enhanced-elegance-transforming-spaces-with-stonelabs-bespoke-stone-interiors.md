@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI-Enhanced Elegance: Transforming Spaces with StoneLab's Bespoke Stone Interiors
+title: AI-Enhanced Elegance - Transforming Spaces with StoneLab's Bespoke Stone Interiors
 ---
 
 
