@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Way Out West 2025: Elevate Your Space with StoneLab's Unique Stone Interiors
+title: Way Out West 2025 Elevate Your Space with StoneLab's Unique Stone Interiors
 ---
 
 
