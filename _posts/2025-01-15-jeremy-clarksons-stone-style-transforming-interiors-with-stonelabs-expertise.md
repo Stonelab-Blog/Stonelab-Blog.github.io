@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jeremy Clarkson's Stone Style: Transforming Interiors with StoneLab's Expertise
+title: Jeremy Clarkson's Stone Style Transforming Interiors with StoneLab's Expertise
 ---
 
 
