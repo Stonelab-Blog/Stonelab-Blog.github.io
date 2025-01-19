@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tampa Bay’s Timeless Elegance with StoneLab: Elevate Your Home with Custom Stone Interiors
+title: Tampa Bay’s Timeless Elegance with StoneLab Elevate Your Home with Custom Stone Interiors
 ---
 
 
