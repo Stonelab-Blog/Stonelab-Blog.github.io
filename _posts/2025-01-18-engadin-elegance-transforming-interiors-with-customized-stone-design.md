@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engadin Elegance: Transforming Interiors with Customized Stone Design
+title: Engadin Elegance Transforming Interiors with Customized Stone Design
 ---
 
 
