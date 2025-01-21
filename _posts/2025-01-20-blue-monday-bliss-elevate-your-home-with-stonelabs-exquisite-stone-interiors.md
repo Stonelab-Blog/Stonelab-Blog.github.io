@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blue Monday Bliss: Elevate Your Home with StoneLab’s Exquisite Stone Interiors
+title: Blue Monday Bliss Elevate Your Home with StoneLab’s Exquisite Stone Interiors
 ---
 
 
