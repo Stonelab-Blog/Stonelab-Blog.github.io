@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engadin Elegance: Transforming Interiors with StoneLab's Stone Solutions
+title: Engadin Elegance Transforming Interiors with StoneLab's Stone Solutions
 ---
 
 
