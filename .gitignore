@@ -34,6 +34,7 @@ node_modules/
 .yarn-integrity
 
 # Exclude specific config files
+Gemfile.lock
 _config.local.yml
 .env
 .env.local
