@@ -1,6 +1,6 @@
 ---
 layout: post
-title: StoneLab's Mastery in Stone: A Bo Ohlsson Inspired Journey
+title: StoneLab's Mastery in Stone A Bo Ohlsson Inspired Journey
 ---
 
 
