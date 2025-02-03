@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Title: Timeless Elegance: Elevate Your Home with StoneLab's Unique Stone Solutions"
+title: "Timeless Elegance: Elevate Your Home with StoneLab's Unique Stone Solutions"
 date: 2025-02-03 13:17:43 +0100
 ---
 
