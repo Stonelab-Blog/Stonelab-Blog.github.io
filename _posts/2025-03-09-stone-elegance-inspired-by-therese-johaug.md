@@ -6,8 +6,6 @@ permalink: /stone-elegance-inspired-by-therese-johaug/
 ---
 
 
-### Embrace the Beauty of Stone in Your Home
-
 In the world of interior design, the allure of natural stone is timeless. At StoneLab Stone Interiors, we believe in the transformative power of stone to elevate any living space. Whether you're inspired by the simplicity and elegance associated with trends like "Therese Johaug" or you're drawn to bold, statement-making patterns, our customized stone solutions can bring your vision to life.
 
 ### Discover the Unique Qualities of Stone
