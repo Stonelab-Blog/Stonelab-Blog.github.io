@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "### Stone Selections in the App Store of Interior Design"
+title: "Stone Selections in the App Store of Interior Design"
 date: 2025-02-17 12:04:52 +0100
 permalink: /stone-selections-in-the-app-store-of-interior-design/
 ---
